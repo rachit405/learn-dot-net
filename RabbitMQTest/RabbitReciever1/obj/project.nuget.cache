@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eo//lLlmGPkNbCj/gzuzeOm6WLasK/9lkXulq2EBB/OBMFxEGM82PrFvdy6KKuxS9wLuz6HnHn+zCQsRDpfyBQ==",
+  "success": true,
+  "projectFilePath": "/Users/rachitdobriyal/Desktop/net tutorials/RabbitMQTest/RabbitReciever1/RabbitReciever1.csproj",
+  "expectedPackageFiles": [
+    "/Users/rachitdobriyal/.nuget/packages/rabbitmq.client/6.8.0/rabbitmq.client.6.8.0.nupkg.sha512",
+    "/Users/rachitdobriyal/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/rachitdobriyal/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
